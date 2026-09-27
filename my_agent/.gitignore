@@ -1,2 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+ENV/
+env/
+
+# Environment variables & secrets
 .env
-.adk/
+
+# IDE specific files
+.vscode/
+.idea/

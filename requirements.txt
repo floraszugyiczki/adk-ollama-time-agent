@@ -1,0 +1,5 @@
+ollama pull llama3.2
+google-adk
+litellm
+python-dotenv
+pydantic
