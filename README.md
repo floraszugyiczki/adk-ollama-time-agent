@@ -65,3 +65,7 @@ Run your agent script:
 ```bash
 python my_agent/agent.py
 ```
+
+```bash
+adk run my_agent
+```
